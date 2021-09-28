@@ -1,2 +1,3 @@
 ¿Que es un repositorio?. Un repositorio es donde tenemos la descripcion de lo que pasa en nuestro software 
 ¿Para que sirve un repositorio? para ver las modificaciones de el software, que persona lo hace.
+La diferencia entre un repositorio privado y uno publico es que el publico te abre la pagina directamente a todos y el privado solo al dueño al ingresar su cuenta de github.
